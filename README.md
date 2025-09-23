@@ -26,7 +26,6 @@ A console-based C++ application that generates anagrams of a user-provided word.
  
 **Sample Output**
 ```
-yaml
 Enter a word: stone
 Generated anagram: tones
 Generated anagram: onset
