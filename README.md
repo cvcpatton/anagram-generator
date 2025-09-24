@@ -26,8 +26,23 @@ A console-based C++ application that generates anagrams of a user-provided word.
  
 **Sample Output**
 ```
-Enter a word: stone
-Generated anagram: tones
-Generated anagram: onset
-Generated anagram: steno
+Enter a name or phrase:
+   hot chocolate
+Anagram combinations using all letters (max 3 words):
+a cloche tooth
+a hooch toltec
+ace cloth hoot
+etc. 
 ```
+
+**Compatibility Notes**
+
+This C++ anagram generator has been tested in the following environments:
+
+* OneCompiler.com ✅
+-- Compiles and runs correctly
+
+* OnlineGDB.com ⚠️
+-- File access to 'words.csv' may not be supported; tries to compile the csv file
+
+Recommendation: Use OneCompiler or a local compiler (C++14 or later) for best results.
