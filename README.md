@@ -35,6 +35,10 @@ ace cloth hoot
 etc. 
 ```
 
+**Data Source**  
+My file words.csv is based on [eng_41320.csv](https://gist.github.com/diplodata/be26123b3f45a7ffab36426da2d2ee1f) 
+
+
 **Compatibility Notes**
 
 This C++ anagram generator has been tested in the following environments:
