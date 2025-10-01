@@ -1,5 +1,6 @@
 # Anagram Generator 🔤  
 A console-based C++ application that generates anagrams of a user-provided word. Demonstrates string manipulation, loops, and randomization.  
+  
 Currently caps the output at 100 anagram combinations to reduce runtime but that can be modified. Also outputs three-word phrases but could be modified to two-word or allow the user to specify how many words should be in each phrase.  
   
 **Features**  
@@ -39,7 +40,7 @@ etc.
 My file words.csv is based on [eng_41320.csv](https://gist.github.com/diplodata/be26123b3f45a7ffab36426da2d2ee1f) 
   
 
-**Compatibility Notes**
+**Compatibility Notes**  
 This C++ anagram generator has been tested in the following environments:  
   
 * OneCompiler.com ✅  
