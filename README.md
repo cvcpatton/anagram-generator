@@ -50,3 +50,6 @@ This C++ anagram generator has been tested in the following environments:
 -- File access to 'words.csv' may not be supported; tries to compile the csv file  
   
 Recommendation: Use OneCompiler or a local compiler (C++14 or later) for best results.  
+
+**License**  
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.  
