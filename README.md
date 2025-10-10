@@ -26,7 +26,7 @@ ace cloth hoot
 etc. 
 ```
 
-**Video Demo**  
+**Video Demo** 🎥  
 [Video Demo for C++ Anagram Generator](https://youtu.be/DWqceeH8hds)  
 
   
