@@ -31,7 +31,7 @@ etc.
 
   
 **Data Source**  
-My file words.csv is based on [eng_41320.csv](https://gist.github.com/diplodata/be26123b3f45a7ffab36426da2d2ee1f){:target="_blank"}  
+My file words.csv is based on [eng_41320.csv](https://gist.github.com/diplodata/be26123b3f45a7ffab36426da2d2ee1f)  
 
 
 **How to Run**  
