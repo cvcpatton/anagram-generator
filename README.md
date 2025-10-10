@@ -15,16 +15,6 @@ Currently caps the output at 100 anagram combinations to reduce runtime but that
 * STL – string handling and randomization  
   
 
-**How to Run**  
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/yourusername/cpp-anagram-generator.git
-   cd cpp-anagram-generator
-2. Compile the program:
-   g++ anagram.cpp -o anagram
-3. Run the executable:
-   ./anagram
-  
 **Sample Output**
 ```
 Enter a name or phrase:
@@ -35,9 +25,24 @@ a hooch toltec
 ace cloth hoot
 etc. 
 ```
+
+**Video Demo**  
+[Video Demo for C++ Anagram Generator](https://youtu.be/DWqceeH8hds)  
+
   
 **Data Source**  
 My file words.csv is based on [eng_41320.csv](https://gist.github.com/diplodata/be26123b3f45a7ffab36426da2d2ee1f) 
+
+
+**How to Run**  
+1. Clone this repository:  
+   ```bash
+   git clone https://github.com/yourusername/cpp-anagram-generator.git
+   cd cpp-anagram-generator
+2. Compile the program:
+   g++ anagram.cpp -o anagram
+3. Run the executable:
+   ./anagram
   
 
 **Compatibility Notes**  
